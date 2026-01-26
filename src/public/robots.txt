@@ -1,0 +1,14 @@
+# robots.txt for h-a-c-s.com
+
+User-agent: *
+Allow: /
+
+# サイトマップの場所
+Sitemap: https://h-a-c-s.com/sitemap.xml
+
+# クロール速度の調整（オプション）
+Crawl-delay: 1
+
+# 特定のディレクトリを除外する場合
+Disallow: /admin/
+# Disallow: /private/

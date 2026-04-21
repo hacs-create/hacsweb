@@ -266,6 +266,21 @@ export default function ContactPage() {
                       info@h-a-c-s.com
                     </a>
                   </div>
+                  <motion.div 
+                  className="pt-6 lg:pt-8 border-t border-white/20"
+                  whileHover={{ x: isMobile ? 0 : 8 }}
+                  transition={{ duration: 0.3 }}
+                >
+                  <div className="space-y-4">
+                    {/* ※アイコンはMapPinの代わりに、とりあえず文字で[TEL]と表示させます */}
+                    <div className="w-8 h-8 flex items-center justify-center text-white font-bold">TEL</div>
+                    <div>
+                      <p className="text-sm tracking-[0.2em] text-gray-400 mb-2">PHONE</p>
+                      <a href="tel:0568706558" className="text-white text-base lg:text-lg hover:underline">
+                        0568-70-6558
+                      </a>
+                    </div>
+                  </div>
                 </motion.div>
 
                 <motion.div 

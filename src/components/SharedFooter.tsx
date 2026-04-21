@@ -109,6 +109,15 @@ export function SharedFooter() {
                   </span>
                 </a>
                 <a 
+                  href="tel:0568706558" 
+                  className="block text-gray-400 hover:text-white transition-colors text-sm group"
+                >
+                  <span className="relative">
+                    0568-70-6558
+                    <span className="absolute bottom-0 left-0 w-0 h-px bg-white transition-all duration-300 group-hover:w-full"></span>
+                  </span>
+                </a>
+                <a 
                   href="https://www.instagram.com/hacsbiz.jp/" 
                   target="_blank" 
                   rel="noopener noreferrer" 

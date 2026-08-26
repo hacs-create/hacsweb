@@ -329,8 +329,7 @@ export default function ContactPage() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="w-full h-[400px] lg:h-[500px] border border-white/10"
           >
-            <iframe
-              src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.2551902734454!2d136.91335777522724!3d35.17519165760701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6003713cab646097%3A0x2ca16ba65c1a88b7!2z5ZCI5ZCM5Lya56S-SEFDUw!5e0!3m2!1sja!2sjp!4v1787758208431!5m2!1sja!2sjp" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.2551902734454!2d136.91335777522724!3d35.17519165760701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6003713cab646097%3A0x2ca16ba65c1a88b7!2z5ZCI5ZCM5Lya56S-SEFDUw!5e0!3m2!1sja!2sjp!4v1787758208431!5m2!1sja!2sjp" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
               width="100%"
               height="100%"
               style={{ border: 0 }}

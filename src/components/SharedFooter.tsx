@@ -43,7 +43,7 @@ export function SharedFooter() {
               <h3 className="text-white mb-4 pb-2 border-b border-white/20 tracking-wider">COMPANY</h3>
               <div className="space-y-2 text-gray-400 text-sm leading-relaxed">
                 <p>合同会社HACS</p>
-                <p>〒485-0036<br />愛知県小牧市下小針天神2丁目2<br />ESPRESSO小牧2C</p>
+                <p>〒461-0001<br />愛知県名古屋市東区泉２丁目２５−７<br />HARVEY高岳 D-3</p>
                 <p>設立：2023年11月14日</p>
               </div>
             </motion.div>

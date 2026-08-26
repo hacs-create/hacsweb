@@ -328,9 +328,9 @@ export default function AboutPage() {
               <div>
                 <h4 className="text-sm text-gray-400 mb-2 tracking-wide">LOCATION</h4>
                 <p className="text-white text-lg leading-relaxed">
-                  〒485-0036<br />
-                  愛知県小牧市下小針天神2丁目2<br />
-                  ESPRESSO小牧2C
+                  〒461-0001<br />
+                  愛知県名古屋市東区泉２丁目２５−７<br />
+                  HARVEY高岳 D-3
                 </p>
               </div>
             </motion.div>
